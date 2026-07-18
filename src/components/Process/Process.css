@@ -1,0 +1,53 @@
+.process-section {
+  padding: 100px 0;
+  background: #080808;
+}
+
+.process-card {
+  background: #151515;
+  border: 1px solid #252525;
+  border-radius: 20px;
+  padding: 35px 25px;
+  text-align: center;
+  height: 100%;
+  transition: all 0.35s ease;
+  position: relative;
+}
+
+.process-card:hover {
+  transform: translateY(-10px);
+  border-color: #ff2d55;
+  box-shadow: 0 15px 35px rgba(255, 45, 85, 0.2);
+}
+
+.step-number {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 42px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.08);
+}
+
+.step-icon {
+  width: 70px;
+  height: 70px;
+  background: linear-gradient(135deg, #ff2d55, #7c3aed);
+  border-radius: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 25px;
+  font-size: 28px;
+  color: white;
+}
+
+.process-card h4 {
+  color: white;
+  margin-bottom: 15px;
+}
+
+.process-card p {
+  color: #bdbdbd;
+  line-height: 1.7;
+}
