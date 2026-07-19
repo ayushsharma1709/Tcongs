@@ -17,7 +17,7 @@ function CustomNavbar() {
         {/* Logo */}
 
         <Navbar.Brand href="#">
-          <img src="/logo.png" alt="logo" className="logo" />
+          <img src="/Logo.png" alt="logo" className="logo" />
         </Navbar.Brand>
 
         {/* Toggle */}
@@ -37,7 +37,7 @@ function CustomNavbar() {
 
             <Nav.Link href="#">Solutions</Nav.Link>
 
-            <Nav.Link href="#">Process</Nav.Link>
+            {/* <Nav.Link href="#">Process</Nav.Link> */}
 
             <Nav.Link href="#">Contact</Nav.Link>
           </Nav>

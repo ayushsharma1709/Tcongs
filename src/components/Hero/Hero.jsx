@@ -54,7 +54,7 @@ function Hero() {
               transition={{ duration: 1 }}
             >
               <div className="glass-card">
-                <img src="/hero.png" alt="" className="hero-image" />
+                <img src="/Hero.png" alt="Hero Image" className="hero-image" />
               </div>
             </motion.div>
           </Col>
