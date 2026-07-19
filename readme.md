@@ -40,13 +40,6 @@ npm install
 npm start
 ```
 
-## Future Improvements
-
-- Dark mode
-- Animations
-- Performance optimization
-- Accessibility improvements
-
 ## Author
 
 **Ayush Sharma**
